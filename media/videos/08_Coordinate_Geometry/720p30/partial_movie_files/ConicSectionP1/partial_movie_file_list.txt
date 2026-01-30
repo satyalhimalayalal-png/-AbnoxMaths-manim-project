@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/leenasatyal/math-animation-environment/media/videos/08_Coordinate_Geometry/720p30/partial_movie_files/ConicSectionP1/4083258517_4034639126_223132457.mp4'
+file 'file:/Users/leenasatyal/math-animation-environment/media/videos/08_Coordinate_Geometry/720p30/partial_movie_files/ConicSectionP1/3619372876_3969239952_1294499026.mp4'
+file 'file:/Users/leenasatyal/math-animation-environment/media/videos/08_Coordinate_Geometry/720p30/partial_movie_files/ConicSectionP1/2373034851_1121617232_4020720283.mp4'
+file 'file:/Users/leenasatyal/math-animation-environment/media/videos/08_Coordinate_Geometry/720p30/partial_movie_files/ConicSectionP1/3679415054_2459455236_4279229523.mp4'

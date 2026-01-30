@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/08_Coordinate_Geometry/2160p60/partial_movie_files/Intro/1457378895_1272239012_223132457.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/08_Coordinate_Geometry/2160p60/partial_movie_files/Intro/1993220219_3535487860_1184350435.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/08_Coordinate_Geometry/2160p60/partial_movie_files/Intro/1993220219_1839128356_1764709806.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/08_Coordinate_Geometry/2160p60/partial_movie_files/Intro/1993220219_3726967112_2212721108.mp4'

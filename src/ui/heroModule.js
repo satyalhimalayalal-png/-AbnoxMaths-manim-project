@@ -1,0 +1,2 @@
+import { getHero } from '../rpg/gameLogic.js';
+export const renderHeroPage=(container)=>{ const hero=getHero(); container.innerHTML=`<div class="hero-dashboard"><div class="hero-header"><div class="avatar-large">👤</div><div><h2>${hero.name}</h2><p>Level ${hero.level}</p></div></div><div class="stats-grid">${Object.entries(hero.stats).map(([k,v])=>`<div class="stat-card"><span class="stat-label">${k}</span><span class="stat-value">${v.toFixed(1)}</span></div>`).join('')}</div></div>`; };

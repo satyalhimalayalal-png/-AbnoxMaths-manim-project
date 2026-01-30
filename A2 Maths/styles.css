@@ -1,0 +1,28 @@
+
+/* Hero and Task Styles */
+.class-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:1rem; }
+.class-card { background:var(--bg-panel); padding:1.5rem; border:1px solid var(--border); border-radius:8px; text-align:center; }
+.class-card:hover { border-color:var(--primary); }
+.hero-dashboard { max-width:800px; margin:0 auto; }
+.hero-header { display:flex; align-items:center; gap:1.5rem; margin-bottom:2rem; }
+.avatar-large { font-size:3rem; background:var(--bg-panel); width:80px; height:80px; display:flex; align-items:center; justify-content:center; border-radius:50%; border:2px solid var(--primary); }
+.stats-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:1rem; margin-top:1.5rem; }
+.stat-card { background:var(--bg-panel); padding:1rem; border-radius:8px; display:flex; align-items:center; gap:1rem; border:1px solid var(--border); }
+.stat-icon { font-size:1.5rem; }
+.stat-info { display:flex; flex-direction:column; }
+.stat-label { color:var(--text-muted); font-size:0.8rem; text-transform:uppercase; }
+.stat-value { font-size:1.2rem; font-weight:bold; }
+.progress-bar { width:100%; height:10px; background:#374151; border-radius:5px; overflow:hidden; }
+.fill { height:100%; transition:width 0.3s ease; }
+.xp-fill { background:var(--primary); }
+.bar-label { display:flex; justify-content:space-between; font-size:0.8rem; margin-bottom:5px; color:var(--text-muted); }
+.task-form { margin-bottom:2rem; padding:1rem; background:var(--bg-panel); border-radius:8px; }
+.task-form input { width:100%; padding:0.8rem; margin-bottom:0.8rem; background:var(--bg-dark); border:1px solid #374151; color:white; border-radius:4px; }
+.form-controls, select, .task-columns { display:flex; gap:0.5rem; }
+.task-columns { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:1.5rem; }
+.task-card { background:var(--bg-panel); padding:1rem; margin-bottom:0.8rem; border-radius:6px; display:flex; justify-content:space-between; align-items:center; border-left:4px solid transparent; }
+.task-card.easy { border-left-color:#10b981; }
+.task-card.medium { border-left-color:#f59e0b; }
+.task-card.hard { border-left-color:#ef4444; }
+.task-stat-badge { font-size:0.7rem; padding:2px 6px; border-radius:4px; background:#374151; margin-right:8px; }
+.task-stat-badge.STR { color:#fca5a5; } .task-stat-badge.INT { color:#93c5fd; }

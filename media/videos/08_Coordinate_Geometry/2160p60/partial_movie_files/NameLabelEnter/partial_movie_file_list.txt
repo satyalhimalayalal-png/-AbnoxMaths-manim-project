@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/08_Coordinate_Geometry/2160p60/partial_movie_files/NameLabelEnter/1457378895_2365918683_223132457.mp4'

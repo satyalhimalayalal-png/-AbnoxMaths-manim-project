@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RPG Productivity</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="manifest" href="manifest.json">
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <div id="app-container">
+        <nav id="sidebar" class="sidebar">
+            <div class="brand">
+                <h2>RPG Do</h2>
+            </div>
+            <ul id="nav-list"></ul>
+            <div class="auth-section">
+                <button id="auth-btn" class="btn-primary">Sign In</button>
+            </div>
+        </nav>
+
+        <div class="main-wrapper">
+            <header id="topbar">
+                <button id="menu-toggle" class="icon-btn">☰</button>
+                <div class="user-stats hidden" id="user-stats">
+                    <div class="stat">
+                        <span id="user-avatar" class="avatar">👤</span>
+                        <span id="user-level">Lvl 1</span>
+                    </div>
+                    <div class="stat gold">
+                        <span>💰</span>
+                        <span id="user-gold">0</span>
+                    </div>
+                </div>
+            </header>
+
+            <main id="content-area">
+                <h1>Welcome, Hero.</h1>
+                <p>Please sign in to access your quest log.</p>
+            </main>
+        </div>
+    </div>
+
+    <script type="module" src="app.js"></script>
+</body>
+</html>

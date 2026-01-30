@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/05_Quadratic_Equations_and_Graphs/2160p60/partial_movie_files/Quadratic1/34461856_2747974668_2288001273.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/05_Quadratic_Equations_and_Graphs/2160p60/partial_movie_files/Quadratic1/3166950890_2190614391_4202863480.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/05_Quadratic_Equations_and_Graphs/2160p60/partial_movie_files/Quadratic1/3166950890_1839128356_400603165.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/05_Quadratic_Equations_and_Graphs/2160p60/partial_movie_files/Quadratic1/3166950890_121156986_2891714246.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/05_Quadratic_Equations_and_Graphs/2160p60/partial_movie_files/Quadratic1/3166950890_1952681393_2515151884.mp4'

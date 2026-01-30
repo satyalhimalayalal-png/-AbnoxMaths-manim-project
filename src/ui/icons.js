@@ -1,0 +1,1 @@
+export const getIcon = (name) => { const icons = { home:'<svg></svg>', focus:'<svg></svg>', analytics:'<svg></svg>', character:'<svg></svg>', party:'<svg></svg>', settings:'<svg></svg>' }; return icons[name]||''; };

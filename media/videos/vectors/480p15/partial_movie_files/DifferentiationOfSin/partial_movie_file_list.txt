@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/leenasatyal/math-animation-environment/media/videos/vectors/480p15/partial_movie_files/DifferentiationOfSin/1185818338_4103113761_223132457.mp4'
+file 'file:/Users/leenasatyal/math-animation-environment/media/videos/vectors/480p15/partial_movie_files/DifferentiationOfSin/624642324_2836395100_4174165131.mp4'
+file 'file:/Users/leenasatyal/math-animation-environment/media/videos/vectors/480p15/partial_movie_files/DifferentiationOfSin/624642324_441119131_2362153146.mp4'
+file 'file:/Users/leenasatyal/math-animation-environment/media/videos/vectors/480p15/partial_movie_files/DifferentiationOfSin/624642324_262076500_2182530837.mp4'
+file 'file:/Users/leenasatyal/math-animation-environment/media/videos/vectors/480p15/partial_movie_files/DifferentiationOfSin/624642324_2831377957_3661405473.mp4'
+file 'file:/Users/leenasatyal/math-animation-environment/media/videos/vectors/480p15/partial_movie_files/DifferentiationOfSin/624642324_364967816_268314515.mp4'

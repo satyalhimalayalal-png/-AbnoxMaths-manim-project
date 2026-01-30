@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/05_Quadratic_Equations_and_Graphs/2160p60/partial_movie_files/Taylors/1457378895_1091841399_1783496745.mp4'

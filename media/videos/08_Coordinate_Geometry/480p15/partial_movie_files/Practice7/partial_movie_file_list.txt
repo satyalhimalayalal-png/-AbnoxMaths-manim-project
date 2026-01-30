@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/08_Coordinate_Geometry/480p15/partial_movie_files/Practice7/1185818338_4239312440_2288001273.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/08_Coordinate_Geometry/480p15/partial_movie_files/Practice7/624642324_4148559932_1889952223.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/08_Coordinate_Geometry/480p15/partial_movie_files/Practice7/624642324_282462913_664230899.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/08_Coordinate_Geometry/480p15/partial_movie_files/Practice7/624642324_4007951886_2699870456.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/08_Coordinate_Geometry/480p15/partial_movie_files/Practice7/624642324_996445095_1910522465.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/08_Coordinate_Geometry/480p15/partial_movie_files/Practice7/624642324_614121449_1388714344.mp4'
+file 'file:/Users/himalayasatyal/Downloads/math-animation-environment/media/videos/08_Coordinate_Geometry/480p15/partial_movie_files/Practice7/624642324_2412224855_1861294263.mp4'
