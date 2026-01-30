@@ -11,4 +11,4 @@ class ContinuityIntro(Scene):
 
 class ContinuityPart1(Scene):
     def construct(self):
-        Ellipse
+        Ellipsess
